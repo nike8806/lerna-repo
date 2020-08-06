@@ -1,0 +1,7 @@
+{
+  name: "storybook",
+  version: "1.0.0",
+  dependencies: {
+    "components": "https://github.bamtech.co/jcruz2/monorepo-spike.git/pkg-2#v1.0.0"
+  }
+}

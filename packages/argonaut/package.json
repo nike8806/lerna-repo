@@ -1,0 +1,7 @@
+{
+  name: "pkg-1",
+  version: "1.0.0",
+  dependencies: {
+    "pkg-2": "github:example-user/pkg-2#v1.0.0"
+  }
+}
