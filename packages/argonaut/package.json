@@ -1,7 +1,7 @@
 {
-  name: "pkg-1",
-  version: "1.0.0",
-  dependencies: {
-    "pkg-2": "github:example-user/pkg-2#v1.0.0"
+  "name": "argonaut",
+  "version": "1.0.0",
+  "dependencies": {
+    "components": "git@github.bamtech.co:jcruz2/monorepo-spike.git/components#v1.0.0"
   }
 }
