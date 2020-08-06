@@ -1,7 +1,4 @@
 {
   "name": "argonaut",
-  "version": "1.0.1",
-  "dependencies": {
-    "components": "git@github.bamtech.co:jcruz2/monorepo-spike.git/components#v1.0.1"
-  }
+  "version": "1.0.0"
 }
