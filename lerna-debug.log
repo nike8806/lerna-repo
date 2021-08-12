@@ -1,0 +1,8 @@
+70 warn complete Waiting for 2 child processes to exit. CTRL-C to exit immediately.
+71 error Error: Command failed: git tag argonaut@1.0.1 -m argonaut@1.0.1
+71 error fatal: tag 'argonaut@1.0.1' already exists
+71 error
+71 error     at makeError (/Users/jaime.cruz/www/lerna-repo-independient/node_modules/execa/index.js:174:9)
+71 error     at /Users/jaime.cruz/www/lerna-repo-independient/node_modules/execa/index.js:278:16
+71 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+71 error     at async Promise.all (index 2)
